@@ -1,0 +1,5 @@
+APP_NAME: 'demo26'
+MS_NAME: 'tele'
+BRANCH: 'master'
+GIT_SOURCE_URL: 'https://github.com/amalkurup/tele.git'
+SONAR_HOST_URL: 'http://fetched_sonar_url'
